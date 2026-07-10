@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=28&duration=2500&pause=1000&color=E1362A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Annisa+Rizki+Nugroho+%F0%9F%8C%B8;Product+Manager+%2B+Senior+UX+Designer" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=28&duration=2500&pause=1000&color=173A1B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Annisa+Rizki+Nugroho+%F0%9F%8C%BB;Product+Manager+%2B+Senior+UX+Designer" alt="Typing animation" />
 
 </div>
 
