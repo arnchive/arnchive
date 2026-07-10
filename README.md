@@ -9,7 +9,7 @@
 <table align="center">
 <tr>
 
-### 🌸 about me
+### 🌻 about me
 
 I'm a **Product Manager** based in Tangerang, Indonesia, currently leading product strategy at **Lenna.ai** for an AI-powered conversational platform used by Indonesian enterprises. My background started in **UX/UI design**, which still shapes how I approach every roadmap — grounded in how people actually use the thing, not just what the spec says.
 
