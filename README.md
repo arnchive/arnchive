@@ -8,7 +8,6 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="60%">
 
 ### 🌸 about me
 
@@ -17,15 +16,9 @@ I'm a **Product Manager** based in Tangerang, Indonesia, currently leading produ
 - 🔭 Currently working on enterprise AI chatbot onboarding & CMS workflows
 - 🎨 Background in UX research, product strategy, and data-driven prioritization
 - 🌱 Always learning — currently exploring how product + engineering workflows connect
-- 📷 Off the clock: photography ([@pxlbyn](https://instagram.com/pxlbyn)) and personal essays on [Medium](https://fragille.medium.com)
+- 📷 Off the clock: photography ([@375pxl](https://instagram.com/375pxl)) and personal essays on [Medium](https://375pxl.medium.com)
 - 💌 Reach me: its.annisarn@gmail.com
 
-</td>
-<td valign="top" width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arnchive&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=E1362A&icon_color=2AA6E0&text_color=3E4E3E" alt="GitHub stats" />
-
-</td>
 </tr>
 </table>
 
@@ -55,8 +48,8 @@ I'm a **Product Manager** based in Tangerang, Indonesia, currently leading produ
 
 <a href="https://annisarn.com"><img src="https://img.shields.io/badge/Portfolio-173A1B?style=for-the-badge&logo=safari&logoColor=white" /></a>
 <a href="https://linkedin.com/in/annisarizkin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://fragille.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://instagram.com/pxlbyn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://375pxl.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://instagram.com/375pxl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
