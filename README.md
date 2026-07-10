@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**arnchive/arnchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=28&duration=2500&pause=1000&color=E1362A&center=true&vCenter=true&width=600&lines=hi%2C+i'm+annisa+%F0%9F%8C%B8;product+manager+%2B+ux+background;building+things+people+actually+finish+using" alt="Typing animation" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+
+### 🌸 about me
+
+I'm a **Product Manager** based in Tangerang, Indonesia, currently leading product strategy at **Lenna.ai** for an AI-powered conversational platform used by Indonesian enterprises. My background started in **UX/UI design**, which still shapes how I approach every roadmap — grounded in how people actually use the thing, not just what the spec says.
+
+- 🔭 Currently working on enterprise AI chatbot onboarding & CMS workflows
+- 🎨 Background in UX research, product strategy, and data-driven prioritization
+- 🌱 Always learning — currently exploring how product + engineering workflows connect
+- 📷 Off the clock: photography ([@pxlbyn](https://instagram.com/pxlbyn)) and personal essays on [Medium](https://fragille.medium.com)
+- 💌 Reach me: its.annisarn@gmail.com
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arnchive&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=E1362A&icon_color=2AA6E0&text_color=3E4E3E" alt="GitHub stats" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🧰 tools & stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Amplitude-1B4CDB?style=for-the-badge&logo=amplitude&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+
+</div>
+
+<br>
+
+### 🔗 find me elsewhere
+
+<div align="center">
+
+<a href="https://annisarn.com"><img src="https://img.shields.io/badge/Portfolio-173A1B?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://linkedin.com/in/annisarizkin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://fragille.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://instagram.com/pxlbyn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>🌺 🌼 🔵 — thanks for stopping by</sub>
+</div>
